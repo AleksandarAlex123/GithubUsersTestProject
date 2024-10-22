@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UsersTaskTest</string>
+    <string name="search_by_nickname">Search by nickname</string>
+    <string name="no_users_found">No users found</string>
+</resources>
